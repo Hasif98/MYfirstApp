@@ -1,4 +1,3 @@
-@@ -0,0 +1,64 @@
 import streamlit as st
 
 import numpy as np
